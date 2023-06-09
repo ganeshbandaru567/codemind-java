@@ -37,6 +37,6 @@ public class xyz
                 }
             }
         }
-        System.out.print(c);
+        System.out.println(c);
     }
 }
